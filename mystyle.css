@@ -1,7 +1,7 @@
 body {
-Background-image:url(https://ultimatepail.com/wp-content/uploads/2018/01/tumblr_o7vrxl8Uk11runoqyo10_540.gif);
-Background-repeat:no-repeat; ;
-Background-size:2000px 1600px;
+background-image:url(https://ultimatepail.com/wp-content/uploads/2018/01/tumblr_o7vrxl8Uk11runoqyo10_540.gif);
+background-repeat:no-repeat; ;
+background-size:2000px 1600px;
 }
 H1 {
 Text-align:center;
@@ -9,8 +9,8 @@ Color:#FFFFFF;
 }
  div {
 Text=align:center;
-Background-color:#000000
-Font-size:20px;
+background-color:#000000
+font-size:20px;
 Border:3px solid white;
 Color:#FFFFFF;
 }
